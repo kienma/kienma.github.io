@@ -10,7 +10,7 @@ I study Mandarin Chinese, too.
 In STEM, I'm mainly interested in biology, chemistry, computer science, mathematics, and their applications. Within biology, I'm 
 like genetics and protein chemistry, with applications in agriculture and molecular medicine. 
 In addition, I find that anthroplogy, ethics, history, and public health are interesting and important subjects. Intersections of topics — 
-for example, science and ethics, technology and society — also fascinate me. 
+for example, of science and ethics, and of technology and society — also fascinate me. 
 
 I like theoretical topics but also research and learning by doing. 
 
