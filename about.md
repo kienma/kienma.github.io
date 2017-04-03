@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Welcome to my blog! I'm Kien Malarney and I come from an international background: 
+I'm Vietnamese–American, born and raised in Tokyo, Japan, and have attended international school for most of my school years. 
+I study Mandarin Chinese, too. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In STEM, I'm mainly interested in biology, chemistry, computer science, mathematics, and their applications. Within biology, I'm 
+like genetics and protein chemistry, with applications in agriculture and molecular medicine. 
+In addition, I find that anthroplogy, ethics, history, and public health are interesting and important subjects. Intersections of topics — 
+for example, science and ethics, technology and society, — also fascinate me. 
 
-There are currently two themes built on Poole:
+I like theoretical topics but also research and learning by doing. 
+Additionally, I'm an iGEMer, a bronze medalist in 2016 with [ASIJ_Tokyo](http://2016.igem.org/Team:ASIJ_Tokyo). We investigated 
+degrading PET plastic by genetically engineering *E. coli*. Currently, I mentor the ASIJ_Tokyo 2017 team, which is 
+investigating early diagnosis of colorectal cancer through molecular genetic markers. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+You can contact me at ``` malarneyk@gmail.com ```.
 
 Thanks for reading!
