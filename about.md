@@ -7,8 +7,8 @@ Welcome to my blog! I'm Kien Malarney and I come from an international backgroun
 I'm Vietnamese–American, born and raised in Tokyo, Japan, and have attended international school for most of my school years. 
 I study Mandarin Chinese, too. 
 
-In STEM, I'm mainly interested in biology, chemistry, computer science, mathematics, and their applications. Within biology, I'm 
-like genetics and protein chemistry, with applications in agriculture and molecular medicine. 
+In STEM, I'm mainly interested in biology, chemistry, computer science, mathematics, and their applications. Within biology, I enjoy 
+genetics and protein chemistry, especially their applications in agriculture and molecular medicine. 
 In addition, I find that anthroplogy, ethics, history, and public health are interesting and important subjects. Intersections of topics — 
 for example, of science and ethics, and of technology and society — also fascinate me. 
 
