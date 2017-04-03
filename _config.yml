@@ -13,9 +13,8 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+name:              Kien Malarney
+email:             malarneyk@gmail.com
 
 # Custom vars
 version:             1.0.0
