@@ -10,9 +10,10 @@ I study Mandarin Chinese, too.
 In STEM, I'm mainly interested in biology, chemistry, computer science, mathematics, and their applications. Within biology, I'm 
 like genetics and protein chemistry, with applications in agriculture and molecular medicine. 
 In addition, I find that anthroplogy, ethics, history, and public health are interesting and important subjects. Intersections of topics — 
-for example, science and ethics, technology and society, — also fascinate me. 
+for example, science and ethics, technology and society — also fascinate me. 
 
 I like theoretical topics but also research and learning by doing. 
+
 Additionally, I'm an iGEMer, a bronze medalist in 2016 with [ASIJ_Tokyo](http://2016.igem.org/Team:ASIJ_Tokyo). We investigated 
 degrading PET plastic by genetically engineering *E. coli*. Currently, I mentor the ASIJ_Tokyo 2017 team, which is 
 investigating early diagnosis of colorectal cancer through molecular genetic markers. 
