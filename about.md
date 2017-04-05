@@ -18,6 +18,6 @@ Additionally, I'm an iGEMer, a bronze medalist in 2016 with [ASIJ_Tokyo](http://
 degrading PET plastic by genetically engineering *E. coli*. Currently, I mentor the ASIJ_Tokyo 2017 team, which is 
 investigating early diagnosis of colorectal cancer through molecular genetic markers. 
 
-You can contact me at ``` malarneyk@gmail.com ```.
+You can contact me at ``` malarneykien@gmail.com ```.
 
 Thanks for reading!
