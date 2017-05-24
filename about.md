@@ -5,7 +5,7 @@ title: About
 
 Welcome to my blog! I'm Kien Malarney and I come from an international background: 
 I'm Vietnamese–American, born and raised in Tokyo, Japan, and have attended international school for most of my school years. 
-I study Mandarin Chinese, too. 
+I study Mandarin Chinese, too. I study molecular biology at UC San Diego.
 
 In STEM, I'm mainly interested in biology, chemistry, computer science, mathematics, and their applications. Within biology, I enjoy 
 genetics and protein chemistry, especially their applications in agriculture and molecular medicine. 
