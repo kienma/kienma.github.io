@@ -1,0 +1,9 @@
+---
+layout: post
+title: Ligand L/R First Release
+--- 
+
+Over the last two weeks, I've been working on a python package that focuses on gathering data for * in silico* drug discovery, 
+Ligand L/R. It's hosted on my Github. A link to it can be found [here](https://github.com/kienma/ligandlr). 
+
+Check it out! 
