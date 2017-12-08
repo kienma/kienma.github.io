@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Kien
-tagline:             'Projects, Data, Code'
-description:         'Blog that focuses on algorithms, life science, and data science.'
+title:               Kien Malarney
+tagline:             'Code Projects'
+description:         'Explorations in computer programming'
 url:                 http://kienma.github.io
 baseurl:             ''
 paginate:            5
